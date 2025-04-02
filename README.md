@@ -40,9 +40,6 @@ This is a simple web application to manage your tasks and to-do lists. You can a
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 This README file assumes that the project only involves front-end technologies like HTML, CSS, and JavaScript. Adjustments can be made according to your specific project setup and preferences.
